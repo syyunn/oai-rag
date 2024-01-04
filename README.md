@@ -6,7 +6,9 @@ Retrieval Augmented Generation (RAG) allows the output of a large language model
 
 ## OpenAI Assistant API
 
-![Agent Image](agent.png)
+<p align="center">
+  <img src="agent.png" alt="Agent Image" width="80%"/>
+</p>
 
 The LLM Agent elevates the basic LLM by incorporating predefined functions that can be activated to tackle specific problems. This capability empowers the LLM Agent to autonomously select and utilize the most suitable tools to effectively address the problems. In this process, the LLM Agent continuously invokes these functions, supplying appropriate arguments as needed, and then assesses the resulting outputs. Based on these observations, the agent determines the subsequent course of action, continuing this cycle until it deems the problem resolved. Such agent-like abilities are readily accessible through the OpenAI Assistant API, showcasing its versatile problem-solving potential.
 
