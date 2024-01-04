@@ -3,7 +3,7 @@ import streamlit as st
 
 def meta():
     st.set_page_config(page_icon="⚗️", page_title="Omnigpt", layout="wide") # or layout='centered'
-    st.write("# ⚗️ Omnigpt: Ask Anything to Multiple PDF Files")
+    st.write("# 🌎 Ask Anything to Multiple PDF Files")
 
     # Hide the made with Streamlit footer
     hide_streamlit_style = """
