@@ -1,6 +1,5 @@
 # define meta information of the app
 import streamlit as st
-# from coffee import buymeacoffee
 
 def meta():
     st.set_page_config(page_icon="⚗️", page_title="Omnigpt", layout="wide") # or layout='centered'
