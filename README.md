@@ -31,7 +31,7 @@ pip install -r requirements.txt
 
 ### Replace the API key in the .env file
 
-Create a file named `.env` and add the `PENAI_API_KEY` to it.
+Create a file named `.env` and add the `OPENAI_API_KEY` to it.
 
 ### Run the app
 
