@@ -17,6 +17,7 @@ The LLM Agent elevates the basic LLM by incorporating predefined functions that 
 - The OpenAI Assistant API automatically manages chat history, relieving developers of this concern.
 - It supports parallel function calls, eliminating the need for developers to implement such agent-like behavior on their own.
 - The API offers RAG capabilities out-of-the-box. Developers don't need to worry about implementing RAG themselves, such as chunking the knowledge base, embedding knowledge, or managing a vector database. All these aspects are automatically handled by the OpenAI Assistant API.
+- Please refer to the [OpenAI Assistant API documentation](https://platform.openai.com/docs/assistants/overview) for more details.
 
 ## Run
 
