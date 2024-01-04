@@ -21,7 +21,13 @@ The LLM Agent elevates the basic LLM by incorporating predefined functions that 
 
 ## Run
 
-### Install dependencies
+### Clone repository
+```bash
+git clone https://github.com/syyunn/oai-rag
+cd oai-rag
+```
+
+### Prep Env & Install dependencies
 
 ```bash
 conda create -n oai-rag python=3.9
